@@ -1,0 +1,1 @@
+enum ScannerType { qr, barcode }
